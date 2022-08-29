@@ -1,8 +1,3 @@
-# Decrypt password-protected PDF in Python.
-# 
-# Requirements:
-# pip install PyPDF2, PyCryptodome, pikepdf
-
 import PyPDF2
 import camelot
 
